@@ -9,5 +9,5 @@ Foram utilizados HTML5, CSS3 e Javascript.
 
 ## Vídeo
 O código foi upado no github pages e você pode ver [Clicando aqui](edsonbmj.github.io/intranet). Ainda assim deixo o vídeo para uma análise rápida.
-https://user-images.githubusercontent.com/74674342/172406833-433414e6-8642-4e4d-b3dc-dda6f85c4ee4.mp4
+https://user-images.githubusercontent.com/74674342/172407073-5f7d087b-00e4-40b3-9083-57950aa47c6c.mp4
 

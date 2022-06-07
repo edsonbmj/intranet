@@ -1,8 +1,10 @@
 # Intranet
-Esta é a segunda versão de uma Intranet que resolvi criar para a empresa em que realizo estágio. O intuito desta aplicação é servir de ferramenta para os colaboradores.
+Esta é uma segunda versão de uma Intranet que desenvolvi para a empresa em que faço estágio. O intuito desta aplicação é servir de ferramenta para os colaboradores.
+## Vantagens
+Mover fisicamente a estação de trabalho dos funcionários como estratégia de comunicação é uma realidade no escritório, bem como a chegada de novos funcionários.
+Dito isso, imprimir lista de ramais/emails se torna inviável por se desatualizar rapidamente. A boa notícia é que na intranet atualizo em tempo real.
 
-
-## Tecnologias
+## Tecnologias Utilizadas
 Foram utilizados HTML5, CSS3 e Javascript.
 
 ## Vídeo

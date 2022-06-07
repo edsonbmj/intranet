@@ -8,7 +8,8 @@ Dito isso, imprimir lista de ramais/emails se torna inviável por se desatualiza
 Foram utilizados HTML5, CSS3 e Javascript.
 
 ## Vídeo
-O código foi upado no github pages e você pode ver [Clicando aqui](https://www.edsonbmj.github.io/intranet). Ainda assim deixo o vídeo para uma análise rápida.
+O código foi upado no github pages e você pode ver [Clicando aqui](http://edsonbmj.github.io/intranet){:target="_blank"}. Ainda assim deixo o vídeo para uma análise rápida.
 
 https://user-images.githubusercontent.com/74674342/172407557-f600d8e1-c765-4b2d-872c-eec92966546b.mp4
+
 

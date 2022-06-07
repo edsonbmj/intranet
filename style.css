@@ -9,7 +9,7 @@
 }
 
 :root {
-  --main-color: #f25341;
+  --main-color: #ff2c9c;
   --text-color: #35404e;
   --bg-color: #f9f9ff;
   --big-font: 3.6rem;
@@ -121,7 +121,7 @@ section {
 
 .btn:hover {
   transform: scale(1.2);
-  background: #f37465;
+  background: #ff2c9c;
   transition: 0.4s;
   box-shadow: 0 px 15px 2px rgb(63 44 44 / 18%);
 }
@@ -173,14 +173,16 @@ span {
 
 .links {
   padding-top: 100px;
+ 
 }
 
 .links-container {
   display: grid;
-  grid-template-columns: repeat(0, minmax(350px, auto));
+  grid-template-columns: repeat(0, minmax(250px, auto));
   grid-gap: 2rem;
   align-items: center;
   margin-top: 4rem;
+  ;
 }
 
 .row {
@@ -244,7 +246,7 @@ span {
 
 .box-one {
   background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url(./img/edsonBarroso.jpg) center center no-repeat;
+    url(./img/aniversariante1.jpg) center center no-repeat;
   background-size: 500px;
   box-shadow: 0px 15px 30px 0px rgb(9 9 9 / 25%);
 }
@@ -258,7 +260,7 @@ span {
 
 .box-two {
   background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url(./img/colaborador1.jpg) center center no-repeat;
+    url(./img/aniversariante2.jpg) center center no-repeat;
   background-size: 500px;
   box-shadow: 0px 15px 30px 0px rgb(9 9 9 / 25%);
 }
@@ -272,7 +274,7 @@ span {
 
 .box-three {
   background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url(./img/colaborador2.jpg) center center no-repeat;
+    url(./img/aniversariante3.jpg) center center no-repeat;
   background-size: 500px;
   box-shadow: 0px 15px 30px 0px rgb(9 9 9 / 25%);
 }
@@ -396,7 +398,7 @@ ul {
   width: 120px;
   height: 38px;
   padding: 2px;
-  background-color: #f25341;
+  background-color: var(--main-color);
   margin: 15px;
   border-radius: 5px;
   color: #faf6ed;
@@ -486,7 +488,7 @@ ul {
 .content-list th {
   border: 1px sólido #c0c0c0;
   padding: 5px;
-  background: #f25341;
+  background: var(--main-color);
   font-family: var(--p-font);
   color: #fff;
   border-radius: 3px;
